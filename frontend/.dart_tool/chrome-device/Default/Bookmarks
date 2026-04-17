@@ -1,0 +1,341 @@
+{
+   "checksum": "8e664b6a9acc7f0a169806123eb9b011",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13358348807572135",
+            "date_last_used": "0",
+            "guid": "25efd2be-0eaa-4bef-9934-02a50d72c3c0",
+            "id": "9",
+            "name": "EdClub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.edclub.com/sportal/program-3/262.play",
+            "visit_count": 0
+         }, {
+            "date_added": "13376509633838139",
+            "date_last_used": "13411969852261422",
+            "guid": "1b7de20f-c9d2-49b2-a00d-6fd2a522c594",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Account | Monkeytype",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://monkeytype.com/account",
+            "visit_count": 2
+         }, {
+            "date_added": "13388328256873905",
+            "date_last_used": "13391070628124170",
+            "guid": "715f32bd-eee4-40e6-9c01-f3503f109f70",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Android Developer Fundamentals Course – Practicals",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://google-developer-training.github.io/android-developer-fundamentals-course-practicals/en/android-developer-fundamentals-course-practicals-en.pdf",
+            "visit_count": 3
+         }, {
+            "date_added": "13405198839876527",
+            "date_last_used": "13416571079251357",
+            "guid": "a14c994f-48a6-4471-b90a-4c5dbae92f4d",
+            "id": "12",
+            "name": "Road to Google 🚀 - Discuss - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/discuss/post/5851374/road-to-google-by-anonymous_user-yl1e/",
+            "visit_count": 7
+         }, {
+            "date_added": "13408197835729677",
+            "date_last_used": "13417892423247919",
+            "guid": "12d6b367-77bb-495e-8a9e-db64f94c6dfb",
+            "id": "13",
+            "name": "The Complete Guide to Prefix Sum and Difference Array - Discuss - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/discuss/post/7363692/a-guide-to-prefix-sum-and-difference-arr-th81/",
+            "visit_count": 5
+         }, {
+            "date_added": "13408343963030681",
+            "date_last_used": "13417676991514112",
+            "guid": "5ef9bcef-d746-4be4-80cf-56ead57b3ca1",
+            "id": "14",
+            "name": "Essential String Patterns for Coding Interviews - Discuss - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/discuss/post/7345087/essential-string-patterns-for-coding-int-duvz/",
+            "visit_count": 2
+         }, {
+            "date_added": "13409819910907014",
+            "date_last_used": "13417952418503437",
+            "guid": "2a9033b3-fc1b-4cde-94ca-769dd6e1aa5d",
+            "id": "15",
+            "name": "Thita patterns Sheet - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/u/0/d/1EEYzyD_483B-7CmWxsJB_zycdv4Y5dxnzcoEQtaIfuk/htmlview",
+            "visit_count": 8
+         }, {
+            "date_added": "13411130768312828",
+            "date_last_used": "13416571360302716",
+            "guid": "7c90761b-dfae-4e86-984c-cdfa63761036",
+            "id": "16",
+            "name": "Company Wise LeetCode Questions List 2025 | CodingInterviewAI",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codinginterviewai.com/company-wise-leetcode-questions?company=Apple&timeframe=all&difficulty=all&page=1&limit=20",
+            "visit_count": 6
+         }, {
+            "date_added": "13411886633139604",
+            "date_last_used": "13417892818286001",
+            "guid": "c083458f-6177-4ed8-a13f-e64303632e48",
+            "id": "17",
+            "name": "1800+ company specific problems.. - Discuss - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/discuss/post/7457366/1800-company-specific-problems-by-shivam-aqkc/",
+            "visit_count": 5
+         }, {
+            "date_added": "13411886793080854",
+            "date_last_used": "0",
+            "guid": "93301455-eb18-410c-8a40-49e90ddafe85",
+            "id": "18",
+            "name": "Leetcode problem set (company tag, sorted by freq) - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTuO5HcZbE-0q3ubXl270mgn6Kg5Pfn_eJbKcL8f2ByW3YfprIIrtkC_q1zQ6alOXEGhwXEcPDJPP0P/pubhtml#gid=1312768576",
+            "visit_count": 1
+         }, {
+            "date_added": "13412374403338303",
+            "date_last_used": "0",
+            "guid": "2f8a4b0c-1731-4668-b4de-e7fcdea29e3f",
+            "id": "19",
+            "name": "Inventory-Management/src/main/java/com/mukund/InventoryManagementSystem/Model_Entity/Order.java at main · mukund-rakholiya/Inventory-Management · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/mukund-rakholiya/Inventory-Management/blob/main/src/main/java/com/mukund/InventoryManagementSystem/Model_Entity/Order.java",
+            "visit_count": 1
+         }, {
+            "date_added": "13413579760478755",
+            "date_last_used": "13417676997780269",
+            "guid": "1a44ce57-3aaf-44b3-a21e-f9c8680e1944",
+            "id": "20",
+            "name": "New Lists which I have created - Discuss - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/discuss/post/7515252/new-lists-which-i-have-created-by-ashnub-xi6o/",
+            "visit_count": 5
+         }, {
+            "date_added": "13414413110442701",
+            "date_last_used": "13417892550440434",
+            "guid": "ddfda33d-ed98-4e27-b458-1a1c1023dec0",
+            "id": "21",
+            "name": "DSA Patterns you need to know !!! - Discuss - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/discuss/post/5886397/dsa-patterns-you-need-to-know-by-anubhav-x7og/",
+            "visit_count": 5
+         }, {
+            "date_added": "13414529370764270",
+            "date_last_used": "0",
+            "guid": "4741103d-f026-4af9-89bd-8aa5078b550b",
+            "id": "22",
+            "name": "Resume Professional Template - Software Engineer - Overleaf, Online LaTeX Editor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.overleaf.com/latex/templates/resume-professional-template-software-engineer/ttwtyxskrcsz",
+            "visit_count": 1
+         }, {
+            "date_added": "13414529496117900",
+            "date_last_used": "0",
+            "guid": "7ea2cd78-c097-4ca8-b40d-150c4427b713",
+            "id": "23",
+            "name": "Resume Professional Template - Software Engineer - Online LaTeX Editor Overleaf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.overleaf.com/project/6980e8973e7922872bfef743",
+            "visit_count": 1
+         }, {
+            "date_added": "13414870137767795",
+            "date_last_used": "0",
+            "guid": "1e0cd6e6-c75f-4572-9b2a-b46cb073d43c",
+            "id": "24",
+            "name": "Transfer.it",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://transfer.it/t/yA9iOX5HRLjS",
+            "visit_count": 1
+         }, {
+            "date_added": "13417770952662708",
+            "date_last_used": "0",
+            "guid": "cfe1292b-fb48-4fa1-a853-0eb25dac3b60",
+            "id": "25",
+            "name": "honeywell_cover.pdf - A4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAHDtiB7UC4/wknYXs2siRx_-bc44jPPfQ/edit",
+            "visit_count": 1
+         } ],
+         "date_added": "13420926147399083",
+         "date_last_used": "0",
+         "date_modified": "13417770952662708",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13358240027980672",
+            "date_last_used": "0",
+            "guid": "aff7878b-f558-4a8c-ad39-6b960704a04b",
+            "id": "26",
+            "name": "Python Tutorial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/python/index.htm",
+            "visit_count": 0
+         }, {
+            "date_added": "13358259325504200",
+            "date_last_used": "0",
+            "guid": "11a8b21c-a50d-48a4-b209-6df6197ca7e0",
+            "id": "27",
+            "name": "Python - Overview",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/python/python_overview.htm",
+            "visit_count": 0
+         }, {
+            "date_added": "13360920495989754",
+            "date_last_used": "0",
+            "guid": "dc4274fa-84be-40ab-b332-57110fe4f19d",
+            "id": "28",
+            "name": "Akiaura Sleepwalker (Slowed) Ft Lonown & Stm Download Mp3",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hdlost.com/song/akiaura-sleepwalker-slowed-ft-lonown-stm",
+            "visit_count": 0
+         }, {
+            "date_added": "13360920558423897",
+            "date_last_used": "0",
+            "guid": "801b8f8b-7606-45d6-9a63-4096da2b4130",
+            "id": "29",
+            "name": "hdlost.com - Google Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=hdlost.com&sca_esv=b3263d4d2be9fb73&sca_upv=1&sxsrf=ADLYWIILnfzpC9RVPPdlLLbZu2kwfQ36Rw%3A1716446889216&ei=qeZOZrS2DIeE4-EPpZGFuAM&ved=0ahUKEwj0ru34lqOGAxUHwjgGHaVIATcQ4dUDCBE&uact=5&oq=hdlost.com&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmhkbG9zdC5jb20yDhAAGIAEGJECGLEDGIoFMgsQLhiABBiRAhiKBTIKEC4YgAQYQxiKBTINEC4YgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIQEC4YgAQYsQMYQxiDARiKBTIKEC4YgAQYQxiKBTIKEAAYgAQYQxiKBTIQEC4YgAQYsQMYQxiDARiKBTIQEC4YgAQYsQMYQxiDARiKBUiRM1CwBVinLXACeAGQAQWYAbgEoAGLHqoBCzAuNi41LjMuMC4xuAEDyAEA-AEBmAIMoALQEKgCFMICChAAGLADGNYEGEfCAgQQIxgnwgIHECMYJxjqAsICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQHCAhYQABgDGLQCGOUCGOoCGIwDGI8B2AEBwgIKECMYgAQYJxiKBcICChAuGIAEGCcYigXCAgsQABiABBiRAhiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMYgwEYigXCAgsQABiABBixAxiDAcICBRAAGIAEwgINEAAYgAQYsQMYQxiKBcICEBAuGIAEGEMYxwEYigUYrwHCAggQABiABBixA8ICChAAGIAEGBQYhwLCAgcQABiABBgKwgIHEC4YgAQYCsICERAuGIAEGJECGLEDGIMBGIoFmAMGiAYBkAYIugYGCAEQARgLkgcHMi41LjQuMaAHkb4B&sclient=gws-wiz-serp",
+            "visit_count": 0
+         } ],
+         "date_added": "13420926147399083",
+         "date_last_used": "0",
+         "date_modified": "13360920558423897",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13343493637676890",
+            "date_last_used": "0",
+            "guid": "142b2a48-3a73-4025-a665-f3ca3f2ce49a",
+            "id": "7",
+            "name": "Download JEE Main Previous Year Papers, JEE Mains 2023 Question Paper",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mystudycart.com/jee-main-past-year-papers-free-download",
+            "visit_count": 0
+         }, {
+            "date_added": "13355126726232660",
+            "date_last_used": "0",
+            "guid": "44905916-1710-4ad0-b344-d64e284076dd",
+            "id": "8",
+            "name": "Developer Roadmaps - roadmap.sh",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://roadmap.sh/",
+            "visit_count": 0
+         } ],
+         "date_added": "13420926147399083",
+         "date_last_used": "0",
+         "date_modified": "13355126726232660",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13420136680286928",
+            "date_last_used": "0",
+            "date_modified": "13420136680286928",
+            "guid": "851c2636-209d-481a-954f-4636c37f4f33",
+            "id": "30",
+            "name": "leetcode 2",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13418287457728304",
+               "date_last_used": "0",
+               "guid": "30e5a219-e75d-4b78-8d76-54883dff89c9",
+               "id": "32",
+               "name": "Leetcode Company Problem Database - Leetcode Wizard",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://leetcodewizard.io/problem-database",
+               "visit_count": 0
+            } ],
+            "date_added": "13418287457727350",
+            "date_last_used": "0",
+            "date_modified": "13418287457728304",
+            "guid": "9df07abf-0f28-45ec-8918-f05dcc96e9c8",
+            "id": "31",
+            "name": "Leetcode",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13420926147399083",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Workspaces",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCN9oxG2dAQAAEgAqGDBkdDNJK0dkdmtnaS9xdTQxUWs5MGc9PUgDoAYHEqwBCCASpwEKHDZ3OGsxSEJaWk82ZGNVTDNlSEc1dDhmV3VMOD0SJDMwZTVhMjE5LWU3NWQtNGI3OC04ZDc2LTU0ODgzZGZmODljORgAIAAoADDsjK78zzM4056u/M8zQNOervzPM0ocT0JxRlMxZmxmdHR0NzB5ZTNQWE9EdHFOczBBPVoeIhxnblRLVEF1YUtLRjdIUUhid1daY08xQlFpWkE9ZR4Xxw/CPgJgBRKOAQgFEokBChx3UkJyWkwrNlBBOWF2S2dqTlA3SlhETGNmdnM9EiQ4YTY5ZjZhMy02YTcxLTU5Y2YtYWI1YS1kM2NiYTQwN2JhMzcYACAAKAAw1ZG00qQzOLWVtNKkM0C1lbTSpDNKHG5teDY1c1FEdnhJOFRnRWV2K0ErbnR0b1NuND1aAGUAAAAAwj4CYAASrQEIHRKoAQocVFE0amFGb0VnOGJIVUFlcGxYdjB1bEw2dExJPRIkODAxYjhmOGItNzYwNi00NWQ2LTlhNjMtNDA5NmRhMmI0MTMwGAAgACgAMPuE97v7MjjYj/e7+zJA2I/3u/syShxMMFBVN2tIVk9TRStWc1ZUTURkTnRWclZQeVU9Wh8iHbp1RjhrYVZSazQrS3c4U0lWL0ozMUQzSUI0SUU9ZRAw/+TCPgJgBRKsAQgcEqcBChxLZnZOdlRlZGlzZVJyaUlZNDZjbEExZHFDVDg9EiRkYzQyNzRmYS04NGJlLTQwYWItYjMzMi01NzExMGZlNGYxOWQYACAAKAAw+oT3u/syOLmP97v7MkC5j/e7+zJKHGlNdkdRcDJ1YkhxTDdTVFpsamVwdTdvclJ0UT1aHiIcdXZWWEtObmh0bStMSkJyK01VUGVIVzVrZVlNPWVP0Gikwj4CYAUSrAEIGhKnAQocRjFiOWtQVEtDWGZzUkNld1hnYVdFWHdHckxRPRIkYWZmNzg3OGItZjU1OC00YThjLWFkMzktNmI5NjA3MDRhMDRiGAAgACgAMKnb3Pf9MTjH2OGu+DFAx9jhrvgxShx3MmFDbTRHQit4emVsMit0TzNvZEgrY2dQc1k9Wh4iHFg5OGhsNjB0R0J0bUhnVnhwaDRzMG4wRjNCZz1lnirxKMI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDQ2ZDQ3NmEyLWQzYTEtNTAxMS04OGYzLTdlOGM3NmY4MmM2MxgAIAAoADC8wYSE8DE4qMWEhPAxQKjFhITwMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKuAQgZEqkBChxDUE1DUTdpbFFNRXFiNG8wNm5jNWduVVpTZlU9EiRjZmUxMjkyYi1mYjQ4LTRmYTEtYTg1My0wZWIyNWRhYzNiNjAYACAAKAAw4pKJhs4zOP3RiIbOM0D90YiGzjNKHEJxWDVJVnFTdnAyTWFyL00xYTlja0MwYWpxQT1aICIe//1xVW00RjJJZlJkZ2ZSZ05hV2JnQktlblMzK2s9ZYa1cpPCPgJgBRKsAQgHEqcBChx0WlRDRzlaZkp2ZEsyVHpsZWwvcTMwaDkwWVU9EiQxNDJiMmE0OC0zYTczLTQwMjUtYTY2NS1mM2NhM2YyY2U0OWEYACAAKAAw/IT3u/syOPqP97v7MkD6j/e7+zJKHElsWlkzZlNFcGtjc09WdWpZNG1Hd215dStYYz1aHiIceFl2OHQxL3hOSk5VRER1S1lYcFhYVUU0ZUgwPWXAsHg9wj4CYAUSrgEIFBKpAQocN21wSDhjbFFpb0xJNXdzUUdtSXJOaHJFcXZVPRIkMWE0NGNlNTctM2FhZi00NGIzLWEyMWUtZjljODY4MGUxOTQ0GAAgACgAMMHLotnNMziPlse3vjNAj5bHt74zShxqN1g4djNZNnBmdnpNd3pVL0c4MENMSC9XL2M9WiAiHv+6aG95SnpLQ29ySFFZRmhuaVA1djRGR1BwakRrPWU0OHqDwj4CYAUSrgEIFRKpAQocTGhBMEZvSWUrZWZpTUxPMWIvZXpYakFlZ21BPRIkZGRmZGEzM2QtZWQ5OC00ZTI3LWI0NTgtMWExYzEwMjNkZWMwGAAgACgAMJ3zhsDOMziT4/bEwTNAk+P2xMEzShxmamhxOFg3NEQ0RXNXb0F2ZU5LUXN1Nm5adTA9WiAiHv/dSWM5TmtFZlpNZkRra0lFQ0J2bDZTWGtGS1NRPWU0OHqDwj4CYAUSrQEIDRKoAQocL1ZNcUFKaENETzZnZUxnTkhyb2h3L2MxZy9rPRIkMTJkNmIzNjctNzdiYi00OTVlLThhOWUtZGI2NGY5NGM2ZGZiGAAgACgAMLKP/7/OMziLwaCxqjNAi8GgsaozShx0K2VmQ1dIS1hsMHQva0tOa1FmVmZPVmlDV009Wh8iHe9yT29FcUFuOS9paHM5MndrVWRFVHJmUVJ6em89ZTQ4eoPCPgJgBRKtAQgTEqgBChx2N21ZMXdpbzJ2MTlmUkUyZVljaml0QXc0aTg9EiQyZjhhNGIwYy0xNzMxLTQ2NjgtYjRkZS1lN2ZjZGVhMjllM2YYACAAKAAwpvjl+LkzOL765fi5M0C++uX4uTNKHHU0a01EbWdQak1EYTNCYTlXVEYzNEttQWJCRT1aHyId/3VuaXNnNElCMHEvdDJydGZ5K0lMMU5mbHJxUT1lhWftD8I+AmAFEqwBCB8SpwEKHFc3S3hHUmVyNitwMG5pck9aYnd1bnY0N20yND0SJDlkZjA3YWJmLTBmMjgtNDVlYy04OTE4LWYwNWRjYzk2ZTljOBgAIAAoADDrjK78zzM4qZ6u/M8zQKmervzPM0ocVGlwUmYyam1iMXRZK0xLZ21tL082WEp6L2tVPVoeIhxuV0lCaC9yZ1dDYXQwN1lqNGc0RTZSQzdpQjA9ZQAAAADCPgJgABKtAQgSEqgBChxiWURaK21sZ0RvSnp1bEZibnpmZXhRekg1cU09EiQ5MzMwMTQ1NS1lYjE4LTQxMGMtOGE0MC00OWU5MGRkYWZlODUYACAAKAAw5sykkLgzOKnQpJC4M0Cp0KSQuDNKHHBEdml4T1NsMzNSQU1tcFg5QVlVRW1hOWpBYz1aHyId/1lhbnY4S0pqMWlsMlFSbXc1anlXaXRBSmFVUT1lh6cpm8I+AmAFEq0BCBESqAEKHEtSZFR3SHdRSUJLWE00QUY2aUNOODQ3ZlZSOD0SJGMwODM0NThmLTYxNzctNGVkOC1hMTNmLWU2NDMwMzYzMmU0OBgAIAAoADDrnpfAzjM4nu+akLgzQJ7vmpC4M0oca2hvc1VIb0ExSTdvOEFTVFdwQ2t4cklBQytvPVofIh3+UDdaWHMwazEzTkNEMkQ2b3A2eVlUeHpxVzVjPWU0OHqDwj4CYAUSrQEICBKoAQocMmI5SlpObzk0K2Y2VmZaSEFCeldZYUdpSko0PRIkNDQ5MDU5MTYtMTcxMC00YWQwLWIzNDQtZDY0ZTI4NDA3NmRkGAAgACgAMP+as/SAMziXj/e7+zJAl4/3u/syShxyYzJiUG5RNzhKbUVhZlAvd20rMitpMGFZOWs9Wh8iHbw1eWtoSjJla2lPeTgzM2JYbTN6N3NMMkFPTUU9ZfjklVPCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQwMGM5NzMwMC0xMmQxLTVkNTUtODdjYS0zN2QzMTU1NzdjMTAYACAAKAAwu8GEhPAxOJHFhITwMUCRxYSE8DFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrQEIDxKoAQocVkFaU0IxNGpxV01pMndmSE9RZmtZVFZRZnk0PRIkMmE5MDMzYjMtZmMxYi00Y2RlLTk0Y2EtNzY5ZGQ2ZTFhYTVkGAAgACgAMPHyzNzOMziWity2sDNAlorctrAzShxvTGthb0wwT2wrOGFmM0ozdDZYcWladUh2aVk9Wh8iHftCSUZ4Y2pHRkJqSHl6LzhKSkgvVEdNejJiaFE9ZYenKZvCPgJgBRKuAQgWEqkBChw5c0pmcHV5WTFvTmNNYVJCMGh0MHdYUDFQQjg9EiQ0NzQxMTAzZC1mMDI2LTRhZjktODliZC04YWE1MDc4YjU1MGIYACAAKAAw8diu/MEzOLfarvzBM0C32q78wTNKHFR0U29hNTcwc3RzRjdPVzdKVUlicGxkL21zOD1aICIe/+5oUkM5SHNuVTlnMHYzbGRxanJ1aGpzQ0dRT2c9ZZG/ltPCPgJgBRKtAQgMEqgBChxYeHR1Q1ZYV2xSTjZXZFQxNEYwak80Mm9TUEk9EiRhMTRjOTk0Zi00OGE2LTQ0NzEtYjkwYS00YzVkYmFlOTJmNGQYACAAKAAw8tr2yckzOI2mnJufM0CNppybnzNKHE0xZkFrSmtydzlTM2hlS1phd0pUWXBPRXYvZz1aHyId3jlDL29LeDh4cHNhR2s2S0ZvbXREUElIMmxsdz1lNDh6g8I+AmAFEqwBCAkSpwEKHHpGSElGNUY1UTRuNWJmaTZ6dU96cmNLcGhUVT0SJDI1ZWZkMmJlLTBlYWEtNGJlZi05OTM0LTAyYTUwZDcyYzNjMBgAIAAoADDNwNKO6DI4pqCx1/AxQKagsdfwMUocb3pUQVM5YVg4R3JNWFlyMEZLRzA1enQ0aHQ4PVoeIhx1QmlBb1V0d1JwVHlGTmpDZzk0UlBXU1JzbDg9ZfstDUHCPgJgBRKuAQgXEqkBChxaS0doczExQmVtSFl3djBIVXUwUFloaW5iVjg9EiQ3ZWEyY2Q3OC1jMDk3LTRjYTgtYjQwZC0xNTBjNDQyN2I3MTMYACAAKAAw0au2/MEzOJ6ttvzBM0Cerbb8wTNKHGN1em1hSGtHK091c3lvbzQ4aUYwQlVzb3k2Zz1aICIe//d3SnlEZVpMclJGN0tYMGNSd3BValRvS2syQTQ9ZZG/ltPCPgJgBRKtAQgOEqgBChxYSG1QM1BuSHJMMkMrZm1Ka3N3ejZBenRQUk09EiQ1ZWY5YmNlZi1kNzQ2LTRiZTQtODBjZi01NmVhZDU3YjNjYTEYACAAKAAwqZqi2c0zOPrB9/aqM0D6wff2qjNKHFdHNHJQcXNQcnU0YlVabGI0SXJ3dlhRcE9NWT1aHyId93V2RDVSTy91WXdkWkJBaXRzY2FKTW95OU1zTT1lNDh6g8I+AmAFEq0BCAsSqAEKHGwrNmdtTEhJVnNLaFhVSDZWWXJEbGFqODZsYz0SJDcxNWYzMmJkLWVlZTQtNDBlNi05YzAxLWYzNTAzZjEwOWY3MBgAIAAoADCpiqPBjDM4kKSE9+IyQJCkhPfiMkocNDFOenBmUU9HaXJhR1ZCbVM3SWZTcnVpS3JnPVofIh28R0E5VDVBMlpocFRkemVPcjJlaHNuNVZENGJJPWXQNn1zwj4CYAUSrAEIHhKnAQocZ29icTQ5WUZkMlI0VlFRb2hla29YWndqeG1JPRIkODUxYzI2MzYtMjA5ZC00ODFhLTk1NGYtNDYzNmMzN2Y0ZjMzGAAgACgAMN7Rke7WMziB45Hu1jNAgeOR7tYzShx2ZmRPNzJacjhVUk9sYld1c3Y4ZEczVThaeHc9Wh4iHFV3SDNoeW1leU8xOWYwMkFUdXp4cmUydGdXQT1lAAAAAMI+AmAAEqwBCAoSpwEKHHhMbUF0OEw5eTQ4SmhQQ2ZWQVlybWh5NmZGMD0SJDFiN2RlMjBmLWM5ZDItNDliMi1hMDBkLTZmZDJhNTIyYzU5NBgAIAAoADD4pvK3uDM48dzRqr0yQPHc0aq9MkocYUd6Z0paVmVUdE5JOG51NE15aW1Fa1dXcVFNPVoeIhx5cEI0elZyR1FSZVQvVWx2dVZrbGZFOFdTSTA9ZcKTdLPCPgJgBRKsAQgbEqcBChxuc0UvaHJMZlREQTk4OHFqc0k1V0Q5YWtXNzA9EiQxMWE4YjIxYy1hNTBkLTQ4YTQtYjIwOS02ZGY2MTk3Y2E3ZTAYACAAKAAwqtvc9/0xOODY4a74MUDg2OGu+DFKHE05L0JOblRoVmovNGdpclJpTHpDaW8rbTRPST1aHiIccTRQQzR6MXVIUVVKWTU0b0QwaFQyMS95UDNRPWWeKvEowj4CYAUSrgEIGBKpAQocMTl4bFBoanZUaGJjVVhrUStFK3N4WFp4Si9RPRIkMWUwY2Q2ZTYtYzc1Zi00NTcyLTliMmEtYjQ2Y2IwNzNkNDNjGAAgACgAMNS57Z7DMziru+2ewzNAq7vtnsMzShxySEZwR1ZvLyswbXlhbVR3ZHBJS1NoWkNPT2M9WiAiHv/7UnlzSmxEdTBTZXU3Rll2b3gralAxQklxVmhZPWU4dx5nwj4CYAUSrQEIEBKoAQocT3hHR25pQWtnQXJDanhmdm4vSCtxQUVET0lFPRIkN2M5MDc2MWItZGZhZS00ZTg2LTk4NGMtY2RmYTYzNzYxMDM2GAAgACgAMJrvh8rJMzjuzOSntTNA7szkp7UzShwvTFV2b2o3R2FmK2QzZmcyT1k4VWZTWDh3SlE9Wh8iHf1YYWxaa0E3TWh6QmxOc2N6UnEwaDZpZUcvUHM9ZQ27x3rCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRmZmNmMjA5Ni01MzRhLTU0MmEtODM5OS0zNmVlMmYwZjZlNDYYACAAKAAwwcGEhPAxON3FhITwMUDdxYSE8DFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

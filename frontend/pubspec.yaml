@@ -1,0 +1,47 @@
+name: syncbeat
+description: Real-time synchronized music listening app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  provider: ^6.1.1
+
+  # WebSocket client
+  web_socket_channel: ^2.4.0
+
+  # YouTube player (WebView-based, works on Android & iOS)
+  youtube_player_flutter: ^8.1.2
+
+  # Unique IDs
+  uuid: ^4.3.3
+
+  # HTTP for YouTube Search API
+  http: ^1.1.0
+
+  # Local storage (persist userId across sessions)
+  shared_preferences: ^2.2.2
+
+  # Relative timestamps in chat
+  timeago: ^3.6.0
+
+  # Better text fields
+  flutter_svg: ^2.0.9
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # assets:
+    # - assets/images/
